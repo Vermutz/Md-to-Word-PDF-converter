@@ -1,6 +1,6 @@
-![Infostart](https://camo.githubusercontent.com/93792854de2eb476c2c1750232803c358d46084dc2ae5b6424cb7e0df07a2b09/68747470733a2f2f696e666f73746172742e72752f6269747269782f74656d706c617465732f73616e64626f785f656d7074792f6173736574732f74706c2f61626f2f696d672f6c6f676f2e737667)
+[![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/about/img/logo.svg)](https://infostart.ru/1c/tools/2818656/)
 
-Оригинальная публикация: https://infostart.ru/1c/tools/2818656/
+Оригинальная публикация: [Конвертер Markdown для 1С](https://infostart.ru/1c/tools/2818656/)
 
 # Конвертер Markdown для 1С
 
@@ -23,15 +23,16 @@
 
 ## Скриншоты
 
-<!-- Положите скриншоты в каталог images/ репозитория и поправьте имена файлов -->
-
 ![Обработка в работе](images/ris1-forma.png)
+
 *Слева — форма с Markdown-текстом, справа — результат конвертации*
 
 ![Таблица](images/ris2-tablica.png)
+
 *Таблица с жирной шапкой и заливкой, разметка внутри ячеек*
 
 ![Формулы](images/ris5-formuly.png)
+
 *Формулы: Unicode-символы и подстрочные индексы*
 
 ## Поддерживаемые элементы Markdown
